@@ -1,0 +1,2 @@
+- padding on **each** side
+- pad or truncate

@@ -1,0 +1,9 @@
+**/model.bin
+**/.ipynb_checkpoints
+**/data
+**/__pycache__
+**/results
+.vscode
+*.npy
+*.pickle
+*.bin.optim
